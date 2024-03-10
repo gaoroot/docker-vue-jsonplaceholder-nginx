@@ -16,7 +16,9 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 docker-compose up -d
 ```
 
+## Docker image size 
 
+![docker](./public/img/Docker-image-size.png "docker")
 
 ## Project Setup
 
